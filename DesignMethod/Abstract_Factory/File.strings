@@ -1,0 +1,17 @@
+/* 
+  File.strings
+  DesignMethod
+
+  Created by 周鹏翔 on 15/12/9.
+  Copyright © 2015年 周鹏翔. All rights reserved.
+*/
+
+//简单理解 是一个创建型模式 抽像工厂：是一组工厂的创建模式,是对工厂的一种抽象。它要创建的是一组工厂
+//例子：
+//在我们的工厂方法1中FactoryClass.h中  管理一组工厂方法的时候，为抽象工厂如
+//-(BaseClass *)makeClass;
+//-(BaseClass *)makeClassC;
+//-(BaseClass *)makeClassD;
+
+//参考地址:
+//http://www.cnblogs.com/zhangchenliang/p/3700820.html
